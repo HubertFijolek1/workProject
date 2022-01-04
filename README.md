@@ -9,10 +9,10 @@ Data should be returned using the http protocol
 
 ## Technologies
 Python 3.8 with libraries such as:
-*requests
-*json
-*operator
-*collections
+* requests
+* json
+* operator
+* collections
 
 Requests isn't a built-in module so we have to use the following command in the terminal:
 
