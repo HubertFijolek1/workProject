@@ -19,3 +19,8 @@ Requests isn't a built-in module so we have to use the following command in the 
 ```
 pip install requests
 ```
+
+If we want to use the application, just run it in the terminal
+
+# Additional features:
+Apart from listing the list of repositories and counting the number of stars, the application counts the technologies / languages used in each repository and determines in which user technology it creates the most projects. The application also retrieves information about the size of each repository and can determine which repository takes up the most space
